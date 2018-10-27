@@ -5,7 +5,7 @@ url: "http://meysubb.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: TIL
+  title: Today I Learnt (TIL)
   avatar: assets/img/ms_bit.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
