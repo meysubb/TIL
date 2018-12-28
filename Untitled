@@ -1,0 +1,10 @@
+---
+layout: post
+title: Building a Python Package
+feature-img:
+---
+
+I had the privilege of building some Python packages for work. It was one of the tasks on my to-do list that I never really got to.
+
+
+First thing to really understand is the structure of the package (at a directory level) and also the necessary files.
